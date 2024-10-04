@@ -24,26 +24,28 @@ section {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 300px;
-    padding: 15px;
+    height: 380px;
     line-height: 1.5;
+    padding-left: 2em;
+    padding-right: 2em;
     }
 
 section h1 {
     color: #25a2c3 ;
-    font-family: montserrat(bold);
+    font-family: "Montserrat";
     font-weight: bold;
     font-size: 2em;
-    padding-top: 20px;
-    padding-bottom: 15px;
+    padding-top: 1.5em;
+    padding-bottom: 0.5em;
+    line-height: 1;
 }
  section button {
-    font-family: montserrat(bold);
+    font-family: "Montserrat";
     font-weight: bold;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-top: 13px;
+    padding-bottom: 13px;
     background-color: orangered;
     color: white;
     margin-top: 35px;    
@@ -54,7 +56,9 @@ section h1 {
  #firstp {
     text-align: center;
     line-height: 1.5;
-    margin-top: 2.5em;
+    margin-top: 3em;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
  }
 
  div h2 {
@@ -69,7 +73,7 @@ section h1 {
     height: 300px;
     width: 300px;
     margin-top: 2em;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
  }
 
 /* seconda parte main  */
@@ -81,19 +85,26 @@ section h1 {
     line-height: 1.5;
     margin-top: 3em;
     padding-bottom: 1.5em;
+    padding-top: 1em;
+    font-style: italic;
+}
+#ceop {
+    font-style: normal;
 }
 
 h3 {
-    font-family: montserrat(bold);
+    font-family: "Montserrat";
     font-weight: bold;
-    font-size: 2em;
+    font-size: 1.9em;
     padding-top: 1em;
-    padding-bottom: 15px;
+    padding-bottom: 1em;
+    font-style: normal;
 }
 
 h4 {
     padding-top: 1em;
     font-size: 1.5em;
+    font-style: normal;
 }
 
 /* box  */
